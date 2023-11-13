@@ -56,7 +56,7 @@ const root = ReactDOM.createRoot(
 
 root.render(
   <React.StrictMode>
-    //^ RouterProvider 사용하여 제공
+    {/* RouterProvider 사용하여 제공 */}
     <RouterProvider router={router} />
   </React.StrictMode>,
 );
