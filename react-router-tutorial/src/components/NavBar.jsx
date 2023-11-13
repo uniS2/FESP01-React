@@ -8,6 +8,8 @@ export default function NavBar() {
         justifyContent: "space-around",
       }}
     >
+      {/* Link 또는 NavLink로 경로 연결 */}
+      {/* Active Links: isActive, isPending(boolean 값, transition 완료 여부) - `style` */}
       <NavLink
         style={({ isActive }) => {
           return {
@@ -28,7 +30,7 @@ export default function NavBar() {
               : "black",
           };
         }}
-        to="/about"
+        to="about"
       >
         About
       </NavLink>
