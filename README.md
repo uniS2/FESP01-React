@@ -15,8 +15,3 @@
 
 - [수업저장소](https://github.com/mattt0204/react-query-tutorial.git)  
 - [학습저장소](./react-query-tutorial/)
-
-### refactoring2_example
-
-- [수업-장소](https://github.com/mattt0204/refactoring2_example.git)  
-- [학습-장소](./refactoring2_example/)
